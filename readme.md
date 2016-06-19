@@ -16,6 +16,12 @@ Goonies fans will agree, this Goonies inspired iTerm2 profile is bad-ass.
 $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
+## Installation
+
+*1. Download this repo and modify the [iterm-profile.json](https://github.com/drewpark88/iTerm-Profile/blob/master/iterm-profile.json). Change "MYUSERNAME" with your computer's username. Also, update the "Working Directory" path if needed.*
+
+*2. Open iTerm2 Preferences -> General, you will notice at the bottom of the panel there is a setting. Load preferences from a custom folder or URL. Use the modified iterm-profile.json file from the last step. There is a button next to it Save settings to Folder.*
+
 
 ## License
 
